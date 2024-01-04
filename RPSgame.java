@@ -8,7 +8,7 @@ public class RPSgame {
         2-Paper
         3-Scissor
           */
-        System.out.println("Welcome Lets Play \n 1-Rock\n 2-Paper\n 3-Scissor\n");
+        System.out.println("Welcome Lets Play \n 1-Rock\n 2-Paper\n 3-Scissor\n"); 
         System.out.print("Choose your number: ");
         Scanner sc = new Scanner(System.in);
         int User = sc.nextInt();
